@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1568926587 source:d:\2019.2\ed1\cofo\cofo.c
+	<stdio.h>
+	<stdlib.h>
+	"cofo.h"
+	<string.h>
+
+1568926462 source:d:\2019.2\ed1\cofo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cofo.h"
+
+1568926389 d:\2019.2\ed1\cofo\cofo.h
+

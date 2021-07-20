@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1567607768 source:d:\2019.2\ed1\matvet\main.c
+	<stdio.h>
+	<stdlib.h>
+	"teles.h"
+
+1567513366 d:\2019.2\ed1\matvet\teles.h
+
+1567600647 source:d:\2019.2\ed1\matvet\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+

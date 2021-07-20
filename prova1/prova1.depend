@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1570411740 source:d:\2019.2\ed1\prova1\pilhaefila.c
+	<stdio.h>
+	<stdlib.h>
+	"pilhafila.h"
+
+1570411709 d:\2019.2\ed1\prova1\pilhafila.h
+
+1570414334 source:d:\2019.2\ed1\prova1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilhafila.h"
+

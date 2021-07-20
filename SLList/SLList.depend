@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1572528050 source:d:\2019.2\ed1\sllist\sll.c
+	<stdlib.h>
+	<stdio.h>
+	"SLL.h"
+	"musgas.h"
+
+1572527339 d:\2019.2\ed1\sllist\sll.h
+
+1572523937 source:d:\2019.2\ed1\sllist\musgas.c
+	<stdlib.h>
+	<stdio.h>
+	"musgas.h"
+	"SLL.h"
+
+1572529510 source:d:\2019.2\ed1\sllist\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"SLL.h"
+	"musgas.h"
+
+1572524040 d:\2019.2\ed1\sllist\musgas.h
+
